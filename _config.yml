@@ -1,13 +1,22 @@
-title: Your awesome title
+title: Parcel and Freight Shipping for SAP
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Josh Riff
+  email: josh.riff@blueharbors.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Super nerd. Parcel carriers, commercial invoices,
+  bills of lading & freight forwarding. I love this stuff. Web services, XML
+  templates, APIs & HTTP REST communication. That's deep. I want more.
+  Compare German, Belgian & French DPD WSDLs. Even deeper. Activate express
+  shipping in SAP and print FedEx & UPS shipping labels. Now print thousands
+  every day for companies around the world. Fix that INVALID-C error on the
+  Zebra printer for Code 128 high-density linear barcodes. Automate Purolator
+  and DHL customer return labels.  This is amazing. This is what I do.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true  # set to true to show excerpts on the homepage
+
+url:                 "https://www.blueharbors.com"
+baseurl:             "/xss/blog"
+permalink:           pretty
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -16,14 +25,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: jmriff
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: joshriff
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -47,6 +56,8 @@ minima:
     # - username: jekyll2
     #   instance: example.com
 
+  skin: solarized
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
@@ -58,3 +69,7 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# Access this webserver (WEBrick) from other computers on the LAN.
+# For example, you can access this server from other computers at //hugo:4000
+host: 0.0.0.0
