@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Carrier of the Week - FedEx
-date: 2019-06-01 04:03:24 +0100
 categories: XSI update
 ---
 

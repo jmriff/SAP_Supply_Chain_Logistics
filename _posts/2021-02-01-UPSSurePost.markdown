@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Support for UPS SurePost
-date: 2019-05-29 02:03:24 +0100
 categories: parcel-shipping
 ---
 

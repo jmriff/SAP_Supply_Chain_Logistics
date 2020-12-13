@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Overview of SAP XSI
-date: 2019-06-02 04:03:24 +0100
 categories: parcel-shipping
 ---
 

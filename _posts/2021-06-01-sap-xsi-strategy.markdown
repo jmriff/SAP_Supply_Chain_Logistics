@@ -1,7 +1,6 @@
 ---
 layout: post
-title: SAP's Long-term Strategy for XSI (Express Shipping Interface)
-date: 2019-06-01 02:03:24 +0100
+title: SAP's Long-term Strategy for XSI (Express Shipping Interface
 categories: XSI update
 ---
 

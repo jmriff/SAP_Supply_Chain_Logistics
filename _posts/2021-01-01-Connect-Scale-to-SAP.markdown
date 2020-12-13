@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to connect a weighing scale to SAP
-date: 2019-05-26 02:03:24 +0100
 categories: parcel-shipping
 ---
 

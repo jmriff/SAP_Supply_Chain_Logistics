@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OSS Note 366914 - XSI Activation and Configuration
-date: 2019-05-31 02:03:24 +0100
 categories: XSI update
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Zebra Printer / INVALID-C error message
-date: 2019-06-01 03:03:24 +0100
 categories: XSI update
 ---
 

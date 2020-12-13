@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Solution for Parcel Shipping on SAP
-date: 2019-05-30 02:03:24 +0100
 categories: XSI update
 ---
 
