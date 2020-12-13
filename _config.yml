@@ -14,8 +14,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: true  # set to true to show excerpts on the homepage
 
-url:                 "https://www.blueharbors.com"
-baseurl:             "/xss/blog"
+url:                 ""
+baseurl:             "/"
 permalink:           pretty
 
 # Minima date format
