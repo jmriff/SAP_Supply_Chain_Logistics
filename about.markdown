@@ -19,14 +19,9 @@ related parcel shipping questions.
 > **TODO** Please remember to follow the [**'*Parcel Shipping for SAP*' Showcase Page on
 LinkedIn**](https://www.linkedin.com/showcase/express-shipping-solution-for-sap).
 
-<script src="{{ base.url | prepend: site.url }}/parcelShippingNews/assets/linkedinFollowCompany.js"></script>
-
 <script src="https://platform.linkedin.com/in.js"
       type="text/javascript"> lang: en_US</script>
 <script type="IN/FollowCompany" data-id="33221667" data-counter="bottom"></script>
-
-
-
 
 ## Express Shipping on SAP
 
