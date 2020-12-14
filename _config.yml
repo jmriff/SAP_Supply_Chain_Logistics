@@ -17,7 +17,7 @@ show_excerpts: false  # set to true to show excerpts on the homepage
 future: false
 
 url:                 ""
-baseurl:             "/parcelShippingNews"
+baseurl:             "/"
 permalink:           pretty
 
 # Minima date format
