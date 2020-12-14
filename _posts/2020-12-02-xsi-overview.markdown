@@ -148,7 +148,7 @@ This post is a summary of SAP support documenation, focusing on
 key highlights. The link to the origional SAP documention is
 [SAP help page](https://help.sap.com/saphelp_globext607_10/helpdata/en/e5/29a5b512b511d3b481006094b9b9dd/frameset.htm).
 
-![SAP Help page](/assets/SAPHelpPage.png)
+![SAP Help page]({{ site.baseurl }}/assets/SAPHelpPage.png)
 
 Webpage for the Express Shipping Solution for SAP → [www.blueharbors.com/xss][xss].
 
