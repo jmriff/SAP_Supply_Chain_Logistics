@@ -1,7 +1,9 @@
 title: Parcel and Freight Shipping for SAP
 author:
-  name: Josh Riff
+  name: "Josh Riff"
   email: josh.riff@blueharbors.com
+  author: "Josh Riff"
+  author_image: '![Blue Harbors logo](/assets/BH_logo.png){:height="100px" style="float: left"}'
 description: > # this means to ignore newlines until "show_excerpts:"
   Super nerd. Parcel carriers, commercial invoices,
   bills of lading & freight forwarding. I love this stuff. Web services, XML
@@ -17,7 +19,7 @@ show_excerpts: false  # set to true to show excerpts on the homepage
 future: false
 
 url:                 ""
-baseurl:             "/"
+baseurl:             "/parcelShippingNews"
 permalink:           pretty
 
 # Minima date format
@@ -75,3 +77,6 @@ plugins:
 # Access this webserver (WEBrick) from other computers on the LAN.
 # For example, you can access this server from other computers at //hugo:4000
 host: 0.0.0.0
+
+# my site.variables
+xssHmPage: '[**blueharbors.com/xss**](https://www.blueharbors.com/xss)'

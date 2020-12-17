@@ -137,12 +137,12 @@ of employees when deliveries are delayed/lost). These evaluations
 or workflows must also be implemented within customer projects.
 
 
-This post is a summary of SAP support documentation, focusing on
-key highlights. The link to the original SAP documentation is
+This post is a summary of SAP support documenation, focusing on
+key highlights. The link to the origional SAP documention is
 [SAP help page](https://help.sap.com/saphelp_globext607_10/helpdata/en/e5/29a5b512b511d3b481006094b9b9dd/frameset.htm).
 
 ![SAP Help page]({{ site.baseurl }}/assets/SAPHelpPage.png)
 
-Web page for the Express Shipping Solution for SAP →  {{ site.xssHmPage }}.
+Webpage for the Express Shipping Solution for SAP →  {{ site.xssHmPage }}.
 
 For help implementing SAP with your parcel carriers, contact Blue Harbors Consulting → [info@blueharbors.com](mailto:info@blueharbors.com).
