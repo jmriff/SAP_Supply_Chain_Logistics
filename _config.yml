@@ -5,14 +5,14 @@ author:
   author: "Josh Riff"
   author_image: '![Blue Harbors logo](/assets/BH_logo.png){:height="100px" style="float: left"}'
 description: > # this means to ignore newlines until "show_excerpts:"
-  Welcome to the SAP Parcel Shipping Blog. Parcel carriers, commercial invoices,
-  bills of lading & freight forwarding. Interested in this stuff? How about web
-  services, XML templates, APIs & HTTP REST communication. Let's go deep. 
-  Compare German, Belgian & French DPD WSDLs. Activate express shipping in SAP
-  and print FedEx & UPS shipping labels. Now print thousands of labels every day for
-  companies around the world. Fix that INVALID-C error on the Zebra printer for
-  Code 128 high-density linear barcodes. Automate Purolator and DHL customer
-  return labels.  This is amazing technology. This is what write about.
+  Welcome. Here we talk about parcel carriers, commercial invoices, bills of
+  lading & freight forwarding. Sound interesting?  How about web services, XML
+  templates, APIs & HTTP REST communication? Let's go deep and compare German,
+  Belgian & French DPD WSDLs. Activate express shipping in SAP and print FedEx
+  & UPS shipping labels. Now print thousands of labels every day for companies
+  around the world. Fix that INVALID-C error on the Zebra printer for Code 128
+  high-density linear barcodes. Automate Purolator and DHL customer return
+  labels.  This is amazing technology. This is what I write about.
 
 show_excerpts: false  # set to true to show excerpts on the homepage
 
@@ -76,6 +76,10 @@ plugins:
 
 # Access this webserver (WEBrick) from other computers on the LAN.
 # For example, you can access this server from other computers at //hugo:4000
+#
+# If you get an error that port 4000 is already occupied, run
+# "lsof -wni tcp:4000" to see which process used port 4000 and get the process PID.
+# Then run "kill -9 <PID>" to kill the job.  
 host: 0.0.0.0
 
 # my site.variables

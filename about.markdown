@@ -5,20 +5,19 @@ permalink: /about/
 ---
 
 ![Blue Harbors logo]({{ site.baseurl }}/assets/BH_logo.png){:height="100px"
-style="float: left"} Welcome to the blog for the Blue Harbors Express Shipping
-Solution for SAP.  The goal of this site is to provide useful and informative
-content to companies using SAP that require small parcel and freight processes.
-I would enjoy hearing about your experience with parcel shipping, so please
-comment on the blog posts.  Visit the the official product page at {{
-site.xssHmPage }} to find information about our SAP-based shipping tools. 
+style="float: left"} Welcome to the __Blue Harbors Express Shipping Solution__
+blog.  The goal of this site is to provide useful and informative content to
+companies running the SAP ERP suite that require support for small parcel and freight
+business functions.  I would enjoy hearing about your experience with
+parcel shipping, so please comment and ask questions on the blog posts.  Visit the the official
+product page at {{ site.xssHmPage }} to find information about our SAP-based
+shipping tools. 
 
-> If you find the information on this website helpful, please click the FOLLOW button: 
-
-<script src="https://platform.linkedin.com/in.js"
+> If you find the information on this website helpful, please click the **FOLLOW** button: 
+> <script src="https://platform.linkedin.com/in.js"
       type="text/javascript"> lang: en_US</script>
-<script type="IN/FollowCompany" data-id="33221667" data-counter="bottom"></script>
-
-You will be enrolled in the ['*Parcel and Freight Shipping for SAP*' page on
+<script type="IN/FollowCompany" data-id="33221667" data-counter="bottom"></script>\
+> You will be enrolled in the [__Parcel and Freight Shipping for SAP__ page on
 LinkedIn](https://www.linkedin.com/showcase/express-shipping-solution-for-sap).
 
 ## Express Shipping on SAP
