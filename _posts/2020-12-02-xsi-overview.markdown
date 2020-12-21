@@ -9,7 +9,7 @@ since 1998.  As shipping technology evolved over the years, so too did XSI.
 These days, its primary purpose is to gather information from within the SAP
 system that is required by parcel carriers to generate shipping labels.  Many
 of the original functions of XSI have been taken over by the carriers
-themselves.  However, XSI still serves as the cornerstone for integrating SAP
+themselves.  However, XSI still serves as the workhorse for integrating SAP
 directly with parcel carriers.
 
 ## Overview of the SAP Express Shipping Interface (XSI)
