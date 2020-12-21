@@ -5,14 +5,14 @@ author:
   author: "Josh Riff"
   author_image: '![Blue Harbors logo](/assets/BH_logo.png){:height="100px" style="float: left"}'
 description: > # this means to ignore newlines until "show_excerpts:"
-  Super nerd. Parcel carriers, commercial invoices,
-  bills of lading & freight forwarding. I love this stuff. Web services, XML
-  templates, APIs & HTTP REST communication. That's deep. I want more.
-  Compare German, Belgian & French DPD WSDLs. Even deeper. Activate express
-  shipping in SAP and print FedEx & UPS shipping labels. Now print thousands
-  every day for companies around the world. Fix that INVALID-C error on the
-  Zebra printer for Code 128 high-density linear barcodes. Automate Purolator
-  and DHL customer return labels.  This is amazing. This is what I do.
+  Welcome to the SAP Parcel Shipping Blog. Parcel carriers, commercial invoices,
+  bills of lading & freight forwarding. Interested in this stuff? How about Web
+  services, XML templates, APIs & HTTP REST communication. Let's go deep. 
+  Compare German, Belgian & French DPD WSDLs. Activate express shipping in SAP
+  and print FedEx & UPS shipping labels. Now print thousands of labels every day for
+  companies around the world. Fix that INVALID-C error on the Zebra printer for
+  Code 128 high-density linear barcodes. Automate Purolator and DHL customer
+  return labels.  This is amazing technology. This is what write about.
 
 show_excerpts: false  # set to true to show excerpts on the homepage
 
@@ -39,8 +39,8 @@ minima:
     linkedin: joshriff
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
+    youtube_channel: UC-fI_Qe43gdJoHAXHYb7NnQ
+    youtube_channel_name: "Express Shipping Solution for SAP"
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
