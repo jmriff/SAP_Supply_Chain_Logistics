@@ -144,7 +144,7 @@ This post is a summary of SAP support documentation, focusing on
 key highlights. The link to the original SAP documentation is
 [SAP help page](https://help.sap.com/saphelp_globext607_10/helpdata/en/e5/29a5b512b511d3b481006094b9b9dd/frameset.htm).
 
-![SAP Help page]({{ site.baseurl }}/assets/SAPHelpPage.png)
+![Parcel shipping]({{ site.baseurl }}/assets/truck-505329558.jpg)
 
 Web page for the Express Shipping Solution for SAP →  {{ site.xssHmPage }}.
 
