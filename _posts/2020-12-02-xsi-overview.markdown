@@ -4,6 +4,14 @@ title: The SAP Express Shipping Interface
 categories: parcel-shipping
 ---
 
+> If you find this post helpful, please **click** the **FOLLOW** button.  You will
+> be added to the [Parcel and Freight Shipping for SAP
+> page](https://www.linkedin.com/showcase/express-shipping-solution-for-sap) on
+> LinkedIn.\
+> <script src="https://platform.linkedin.com/in.js"
+      type="text/javascript"> lang: en_US</script> <script
+type="IN/FollowCompany" data-id="33221667" data-counter="bottom"></script>
+
 The Express Shipping Interface (XSI) has been part of the core SAP package
 since 1998.  As shipping technology evolved over the years, so too did XSI.
 These days, its primary purpose is to gather information from within the SAP
@@ -12,15 +20,11 @@ of the original functions of XSI have been taken over by the carriers
 themselves.  However, XSI still serves as the workhorse for integrating SAP
 directly with parcel carriers.
 
-> Comments and questions regarding this post are encouraged. I would like
-to hear about your experiences with XSI. Please use the link below to raise
-your comments or share the post.  And while you are there, remember to
-follow the __Parcel and Freight Shipping for SAP__ LinkedIn page if you find
-this information helpful.
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6746632096606896128" height="150" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
 ## Overview of the SAP Express Shipping Interface (XSI)
+
+> Please comment and ask questions regarding this post.  I would like
+to hear about your experiences with XSI. [**Click here to comment on this
+post**](https://www.linkedin.com/feed/update/urn:li:activity:6746632097114406912).
 
 The Express Shipping Interface comes standard in SAP ECC, EWM and S/4HANA. It
 resides within the shipping (LE-SHP) module. This function enables you to map
