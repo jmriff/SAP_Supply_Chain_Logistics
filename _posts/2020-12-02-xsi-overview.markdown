@@ -4,7 +4,7 @@ title: The SAP Express Shipping Interface
 categories: parcel-shipping
 ---
 
-> **FOLLOW.** If you find this post helpful, please **click** the **follow** button.  You will
+> **Follow.** If you find this post helpful, please **click** the **follow** button.  You will
 > be added to the [Parcel and Freight Shipping for SAP
 > page](https://www.linkedin.com/showcase/express-shipping-solution-for-sap) on
 > LinkedIn.\
@@ -22,7 +22,7 @@ directly with parcel carriers.
 
 ## Overview of the SAP Express Shipping Interface (XSI)
 
-> **COMMENT.** Please comment and ask questions regarding this post.  I would like
+> **Comment.** Please comment and ask questions regarding this post.  I would like
 to hear about your experiences with XSI. [**Click here to comment on this
 post**](https://www.linkedin.com/feed/update/urn:li:activity:6746632097114406912).
 
@@ -48,7 +48,7 @@ Shipping Interface:
 
 ### Integration Considerations
 
-> **Note:**
+> **Note.**
 Connections to parcel carriers are not provided in standard SAP.  It is
 recommended that you treat parcel carrier integration as an IT project and that
 you perform this project in collaboration with an experienced integration
@@ -155,6 +155,5 @@ key highlights. The link to the original SAP documentation is
 
 ![Parcel shipping]({{ site.baseurl }}/assets/truck-505329558.jpg)
 
-Web page for the Express Shipping Solution for SAP →  {{ site.xssHmPage }}.
+Web page for the Express Shipping Solution for SAP >>  {{ site.xssHmPage }}.
 
-For help implementing SAP with your parcel carriers, contact Blue Harbors Consulting → [info@blueharbors.com](mailto:info@blueharbors.com).
