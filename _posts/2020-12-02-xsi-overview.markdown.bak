@@ -37,7 +37,7 @@ Shipping Interface:
 
 > **Note:**
 Connections to parcel carriers are not provided in standard SAP.  It is
-recommended that you treat parcel carrier integration as an IT project and that
+recommended that you treat parcel carrier integraion as an IT project and that
 you perform this project in collaboration with an experienced integration
 partner, such as Blue Harbors Consulting (see {{site.xssHmPage}} for more
 information about implementing the Express Shipping Solution).
