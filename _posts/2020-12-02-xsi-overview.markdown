@@ -12,21 +12,21 @@ of the original functions of XSI have been taken over by the carriers
 themselves.  However, XSI still serves as the workhorse for integrating SAP
 directly with parcel carriers.
 
-> Comments and questions regarding this blog post are welcome.  Please use
-this link to my LinkedIn page to raise your comments or share the post.  And
-while you are there, please remember to follow my __Parcel and Freight Shipping
-for SAP__ page to stay aware of news, future posts and upcoming events. Thanks!
+> Comments and questions regarding this post are encouraged. I would like
+to hear about your experiences with XSI. Please use the link below to raise
+your comments or share the post.  And while you are there, remember to
+follow the __Parcel and Freight Shipping for SAP__ LinkedIn page if you find
+this information helpful.
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6746632096606896128" height="150" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ## Overview of the SAP Express Shipping Interface (XSI)
 
-The Express Shipping Interface comes standard in SAP ECC, EWM S/4HANA. It
+The Express Shipping Interface comes standard in SAP ECC, EWM and S/4HANA. It
 resides within the shipping (LE-SHP) module. This function enables you to map
 the particular requirements of express delivery companies (UPS, FedEx, DHL,
-USPS, Purolator, etc.) with regards to shipping.
-
-These requirements affect the following three components:
+USPS, Purolator, etc.) with regards to shipping. These requirements affect the
+following three components:
 
 - Label printing (address stickers, labels)
 - EDI and day-end closing (manifest, delivery list, or end-of-day list)
@@ -82,13 +82,12 @@ shipment (depending on the process you require) as a forwarding agent.
 standard message determination and message processing using print programs and
 SAP forms).
 
-- You have set up the IDoc interface for the service agent partner (see Setting
-  Up Labels for Express Delivery Companies). If the express delivery company
-does not want to accept the data directly in the form of a standard SAP IDoc
-(type SHPMNT or DELVRY), either you must write your own converter for these
-IDocs within customer projects, or you use workarounds within the print
-programs. For example, you could create custom tables whose contents are then
-read and transferred as a flat file to the service agent.
+- You have set up the IDoc interface for the service agent partner. If the
+express delivery company does not want to accept the data directly in the
+form of a standard SAP IDoc (type SHPMNT or DELVRY), either you must write your
+own converter for these IDocs within customer projects, or you use workarounds
+within the print programs. For example, you could create custom tables whose
+contents are then read and transferred as a flat file to the service agent.
 
 ### Features
 
@@ -115,9 +114,8 @@ automatically when you save a delivery or shipment that is
 relevant for the express delivery company according to the
 settings.
 
-- The values determined are available for printing (print
-structure VTRK_D2) and for the IDocs SHPMNT and DELVRY in order to
-transfer them to the service agent.
+- The values determined are available for printing and for the IDocs SHPMNT and
+  DELVRY in order to transfer them to the service agent.
 
 - There is an XML RFC interface available for both automatic
 uploads of express delivery company-specific master data (such as
