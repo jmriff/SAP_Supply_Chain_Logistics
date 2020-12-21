@@ -12,6 +12,13 @@ of the original functions of XSI have been taken over by the carriers
 themselves.  However, XSI still serves as the workhorse for integrating SAP
 directly with parcel carriers.
 
+> Comments and questions regarding this blog post are welcome.  Please use
+this link to my LinkedIn page to raise your comments or share the post.  And
+while you are there, please remember to follow my __Parcel and Freight Shiping
+for SAP__ page to stay aware of news, future posts and upcoming events. Thanks!
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6746632096606896128" height="150" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ## Overview of the SAP Express Shipping Interface (XSI)
 
 The Express Shipping Interface comes standard in SAP ECC, EWM S/4HANA. It
