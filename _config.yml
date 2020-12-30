@@ -1,9 +1,6 @@
+# The fields in this section used by the jekyll-seo-tag plugin (and may also appear on the webpage).
 title: Parcel and Freight Shipping for SAP
-author:
-  name: "Josh Riff"
-  email: josh.riff@blueharbors.com
-  author: "Josh Riff"
-  author_image: '![Blue Harbors logo](/assets/BH_logo.png){:height="100px" style="float: left"}'
+tagline: A blog dedicated to discussing SAP shipping software and the small parcel courier express industry"
 description: > # this means to ignore newlines until "show_excerpts:"
   Welcome. Here we talk about parcel carriers, commercial invoices, bills of
   lading & freight forwarding. Sound interesting?  How about web services, XML
@@ -14,10 +11,21 @@ description: > # this means to ignore newlines until "show_excerpts:"
   high-density linear barcodes. Automate Purolator and DHL customer return
   labels.  This is amazing technology. This is what I write about.
 
-show_excerpts: false  # set to true to show excerpts on the homepage
+author:
+  name:              "Josh Riff"
+  email:             josh.riff@blueharbors.com
+  twitter:           jmriff
+logo:                /assets/BH_logo.png
 
-future: false
+social:
+   name: Josh Riff
+   links:
+      https://twitter.com/jmriff
+      https://www.linkedin.com/in/joshriff/
 
+# These settings control the bahavour of the webpage.
+show_excerpts:       false  # show post excerpts on the homepage if set to TRUE
+future:              false  # publish future dated posts if set to TRUE
 url:                 ""
 baseurl:             "/parcelShippingNews"
 permalink:           pretty
