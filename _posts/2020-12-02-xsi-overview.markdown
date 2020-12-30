@@ -1,11 +1,14 @@
 ---
 layout: post
 
-title: "The SAP Express Shipping Interface"
+title: "The SAP Express Shipping Interface (XSI)"
 
-description: "The primary purpose of the SAP Express Shipping Interface (XSI)
-is to gather information from within your #SAP system that is required by
-parcel carriers to generate #shipping labels. XSI serves as the workhorse for
+tagline: "Use SAP to connect to small parcel companies (UPS, FedEx, DHL,USPS,
+Purolator, etc.) to perform shipping functions"
+
+description: "The primary purpose of the SAP Express Shipping Interface 
+is to gather information from within your SAP system that is required by
+parcel carriers to generate shipping labels. XSI serves as the workhorse for
 integrating SAP directly with parcel carriers."
 
 image: /assets/truck-505329558.jpg

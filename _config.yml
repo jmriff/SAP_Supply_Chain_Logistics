@@ -23,10 +23,10 @@ social:
       https://twitter.com/jmriff
       https://www.linkedin.com/in/joshriff/
 
-# These settings control the bahavour of the webpage.
+# These settings control the behavior of the webpage.
 show_excerpts:       false  # show post excerpts on the homepage if set to TRUE
 future:              false  # publish future dated posts if set to TRUE
-url:                 ""
+url:                 "https://jmriff.github.io"
 baseurl:             "/parcelShippingNews"
 permalink:           pretty
 
