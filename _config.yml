@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   labels.  This is amazing technology. This is what I write about.
 
 author:
-  name:              "Josh Riff"
+  name:              Blue Harbors
   email:             josh.riff@blueharbors.com
   twitter:           jmriff
 logo:                /assets/BH_logo.png

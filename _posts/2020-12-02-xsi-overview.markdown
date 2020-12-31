@@ -13,6 +13,14 @@ integrating SAP directly with parcel carriers."
 
 image: /assets/truck-505329558.jpg
 
+logo:  /assets/BH_logo.png
+
+social:
+   name: Josh Riff
+   links:
+      - https://twitter.com/jmriff
+      - https://www.linkedin.com/in/joshriff
+
 categories: parcel-shipping
 ---
 
