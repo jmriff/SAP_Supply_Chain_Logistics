@@ -3,7 +3,10 @@ layout: post
 
 title: "The SAP Express Shipping Interface"
 
-description: "The primary purpose of the SAP Express Shipping Interface is to gather information from within your SAP system that is required by parcel carriers to generate shipping labels. XSI serves as the workhorse for integrating SAP directly with parcel carriers."
+description: "The primary purpose of the SAP Express Shipping Interface is to
+gather information from within your SAP system that is required by parcel
+carriers to generate shipping labels. XSI serves as the workhorse for
+integrating SAP directly with parcel carriers."
 
 image: /assets/truck-505329558.jpg
 
@@ -54,7 +57,7 @@ post**](https://www.linkedin.com/feed/update/urn:li:activity:6746632097114406912
 
 ### Integration Considerations
 
-> **Note.**
+> **Note**
 Connections to parcel carriers are not provided in standard SAP.  It is
 recommended that you treat parcel carrier integration as an IT project and that
 you perform this project in collaboration with an experienced integration
@@ -98,6 +101,8 @@ form of a standard SAP IDoc (type SHPMNT or DELVRY), either you must write your
 own converter for these IDocs within customer projects, or you use workarounds
 within the print programs. For example, you could create custom tables whose
 contents are then read and transferred as a flat file to the service agent.
+
+![Parcel shipping]({{ site.baseurl }}/assets/truck-505329558.jpg)
 
 ### Features
 
@@ -159,7 +164,9 @@ This post is a summary of SAP support documentation, focusing on
 key highlights. The link to the original SAP documentation is
 [SAP help page](https://help.sap.com/saphelp_globext607_10/helpdata/en/e5/29a5b512b511d3b481006094b9b9dd/frameset.htm).
 
-![Parcel shipping]({{ site.baseurl }}/assets/truck-505329558.jpg)
+Web page for the Express Shipping Solution for SAP >>  {{ site.xssHmPage }} <<
 
-Web page for the Express Shipping Solution for SAP >>  {{ site.xssHmPage }}.
-
+<figure>
+<img src="{{site.baseurl}}/assets/profilePics/profilePic02.jpg" alt="Author Josh Riff" style="text-align:center"/>
+<figcaption>Josh Riff, SAP parcel shipping<br>consultant and author</figcaption>
+</figure>
