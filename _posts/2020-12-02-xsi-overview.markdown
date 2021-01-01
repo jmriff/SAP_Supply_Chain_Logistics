@@ -102,7 +102,7 @@ own converter for these IDocs within customer projects, or you use workarounds
 within the print programs. For example, you could create custom tables whose
 contents are then read and transferred as a flat file to the service agent.
 
-![Parcel shipping]({{ site.baseurl }}/assets/truck-505329558.jpg)
+![express courier truck delivering small parcel shipments]({{ site.baseurl }}/assets/truck-505329558.jpg)
 
 ### Features
 
