@@ -1,21 +1,20 @@
 # The fields in this section used by the jekyll-seo-tag plugin (and may also appear on the webpage).
 title: Parcel and Freight Shipping for SAP
-tagline: A blog dedicated to discussing SAP shipping software and the small parcel courier express industry"
+tagline: A blog platform for discussing SAP shipping software and the small parcel courier express industry"
 description: > # this means to ignore newlines until "show_excerpts:"
-  Welcome. Here we talk about parcel carriers, commercial invoices, bills of
-  lading & freight forwarding. Sound interesting?  How about web services, XML
+  A blog dedicated to parcel carriers, commercial invoices, bills of lading &
+  freight forwarding. Sound interesting?  How about web services, XML
   templates, APIs & HTTP REST communication? Let's go deep and compare German,
   Belgian & French DPD WSDLs. Activate express shipping in SAP and print FedEx
-  & UPS shipping labels. Now print thousands of labels every day for companies
-  around the world. Fix that INVALID-C error on the Zebra printer for Code 128
-  high-density linear barcodes. Automate Purolator and DHL customer return
-  labels.  This is amazing technology. This is what I write about.
+  & UPS shipping labels. Now print thousands of labels every day for sites
+  located around the world. Automate Purolator and DHL customer return labels.
+  This is amazing technology. This is what I write about.
 
 author:
   name:              Josh Riff
   email:             josh.riff@blueharbors.com
   twitter:           jmriff
-logo:                /assets/BH_logo.png
+logo:                /assets/profilePics/profilePic03.jpg
 
 social:
    name: Josh Riff

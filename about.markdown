@@ -4,21 +4,16 @@ title: About
 permalink: /about/
 ---
 
-![Blue Harbors logo]({{ site.baseurl }}/assets/BH_logo.png){:height="100px"
-style="float: left"} Welcome to the __Blue Harbors Express Shipping Solution__
-blog.  The goal of this site is to provide useful and informative content to
-companies running the SAP ERP suite that require support for small parcel and freight
-business functions.  I would enjoy hearing about your experience with
-parcel shipping, so please comment and ask questions on the blog posts.  Visit the the official
-product page at {{ site.xssHmPage }} to find information about our SAP-based
-shipping tools. 
+![Blue Harbors logo]({{ site.baseurl }}/assets/profilePics/profilePic03.jpg){:height="140px"
+style="float: left; padding:8px"} Welcome! Here we discuss SAP shipping software and the
+small parcel courier express industry.  The goal of this site is to provide
+useful and informative content to companies running the SAP ERP suite that
+require support for small parcel and freight business functions.  I would enjoy
+hearing about your experience with parcel shipping, so please comment and ask
+questions on the blog posts.  My contact details on various social media
+platforms are and the bottom of each page. I hope to hear from you.  Thanks! 
 
-> If you find the information on this website helpful, please click the **FOLLOW** button: 
-> <script src="https://platform.linkedin.com/in.js"
-      type="text/javascript"> lang: en_US</script>
-<script type="IN/FollowCompany" data-id="33221667" data-counter="bottom"></script>\
-> You will be enrolled in the [__Parcel and Freight Shipping for SAP__ page on
-LinkedIn](https://www.linkedin.com/showcase/express-shipping-solution-for-sap).
+{% include followCompany.html %}
 
 ## Express Shipping on SAP
 
@@ -50,3 +45,5 @@ networks, cold-chain and hazardous material environments, B2C, B2B and third
 party distribution to support Amazon, Home Depot and the like.  Activate
 shipping in your existing SAP system and start communicating directly with your
 favorite transportation partners.
+
+{% include consultingServicesNote.html %}

@@ -83,7 +83,7 @@ In R/3, create an RFC destination in transaction SM59 with the following charact
 - Name: SCALE_<unique id from step 1>
 - Type: T
 - Description: Packaging Scale <unique id from step 1>
-- Technical settngs:
+- Technical settings:
 - Activation Type: Registered Server Program
 - Program ID: SCALE_<unique id from step 1>
 
