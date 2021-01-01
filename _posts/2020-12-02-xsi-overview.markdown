@@ -167,6 +167,6 @@ key highlights. The link to the original SAP documentation is
 Web page for the Express Shipping Solution for SAP >>  {{ site.xssHmPage }} <<
 
 <figure>
-<img src="{{site.baseurl}}/assets/profilePics/profilePic02.jpg" alt="Author Josh Riff" style="text-align:center"/>
+<img src="{{ site.baseurl }}/assets/profilePics/profilePic02.jpg" alt="Author Josh Riff"/>
 <figcaption>Josh Riff, SAP parcel shipping<br>consultant and author</figcaption>
 </figure>
