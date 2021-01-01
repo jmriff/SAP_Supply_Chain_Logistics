@@ -10,6 +10,8 @@ integrating SAP directly with parcel carriers."
 
 image: /assets/truck-505329558.jpg
 
+profilePic: profilePic02.jpg
+
 categories: parcel-shipping
 ---
 
@@ -21,13 +23,7 @@ of the original functions of XSI have been taken over by the carriers
 themselves.  However, XSI still serves as the workhorse for integrating SAP
 directly with parcel carriers.
 
-> **Follow.** If you find this post helpful, please **click** the **follow** button.  You will
-> be added to the [Parcel and Freight Shipping for SAP
-> page](https://www.linkedin.com/showcase/express-shipping-solution-for-sap) on
-> LinkedIn.\
-> <script src="https://platform.linkedin.com/in.js"
-      type="text/javascript"> lang: en_US</script> <script
-type="IN/FollowCompany" data-id="33221667" data-counter="bottom"></script>
+{% include followCompany.html %}
 
 ## Overview of the SAP Express Shipping Interface (XSI)
 
@@ -52,17 +48,10 @@ Shipping Interface:
   SAP system
 
 > **Comment.** Please comment and ask questions regarding this post.  I would like
-to hear about your experiences with XSI. [**Click here to comment on this
+to hear about your experiences with XSI. Thanks! [**Click here to comment on this
 post**](https://www.linkedin.com/feed/update/urn:li:activity:6746632097114406912).
 
 ### Integration Considerations
-
-> **Note**
-Connections to parcel carriers are not provided in standard SAP.  It is
-recommended that you treat parcel carrier integration as an IT project and that
-you perform this project in collaboration with an experienced integration
-partner, such as Blue Harbors Consulting (see {{site.xssHmPage}} for more
-information about implementing the Express Shipping Solution).
 
 You connect parcel carriers to outbound delivery documents and/or shipment
 documents within the SAP system.
@@ -78,6 +67,8 @@ print labels or communicate via EDI or XML.
 Once the parcel has been sent, you can start parcel tracking either from the
 standard delivery and shipment transactions (VL02N, VL03N, or VT02N/VT03N), or
 using a separate transaction (VTRK).
+
+{% include consultingServicesNote.html %}
 
 ### Prerequisites
 
@@ -166,7 +157,4 @@ key highlights. The link to the original SAP documentation is
 
 Web page for the Express Shipping Solution for SAP >>  {{ site.xssHmPage }} <<
 
-<figure>
-<img src="{{ site.baseurl }}/assets/profilePics/profilePic02.jpg" alt="Author Josh Riff"/>
-<figcaption>Josh Riff, SAP parcel shipping<br>consultant and author</figcaption>
-</figure>
+{% include profilePic.html %}
