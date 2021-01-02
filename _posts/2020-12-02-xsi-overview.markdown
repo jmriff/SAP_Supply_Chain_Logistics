@@ -10,8 +10,6 @@ integrating SAP directly with parcel carriers."
 
 image: /assets/truck-505329558.jpg
 
-profilePic: profilePic02.jpg
-
 categories: parcel-shipping
 ---
 
@@ -156,5 +154,3 @@ key highlights. The link to the original SAP documentation is
 [SAP help page](https://help.sap.com/saphelp_globext607_10/helpdata/en/e5/29a5b512b511d3b481006094b9b9dd/frameset.htm).
 
 Web page for the Express Shipping Solution for SAP >>  {{ site.xssHmPage }} <<
-
-{% include profilePic.html %}

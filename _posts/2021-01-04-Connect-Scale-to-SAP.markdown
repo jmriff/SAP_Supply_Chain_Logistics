@@ -12,8 +12,6 @@ serial data stream coming from a scale."
 
 image:  /assets/scaleForR3.png
 
-profilePic: profilePic01.jpg
-
 categories: parcel-shipping
 ---
 
@@ -90,5 +88,3 @@ In R/3, create an RFC destination in transaction SM59 with the following charact
 Reboot the PC and then test the connection from R/3 to ensure the Scale_for_R3 program is registering correctly.
 
 Web page for the Express Shipping Solution for SAP >>  {{ site.xssHmPage }} <<
-
-{% include profilePic.html %}
