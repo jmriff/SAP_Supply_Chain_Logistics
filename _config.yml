@@ -3,12 +3,12 @@ title: Parcel and Freight Shipping for SAP
 tagline: A blog platform for discussing SAP shipping software and the small parcel courier express industry"
 description: > # this means to ignore newlines until "show_excerpts:"
   A blog dedicated to parcel carriers, commercial invoices, bills of lading &
-  freight forwarding. Sound interesting?  How about web services, XML
-  templates, APIs & HTTP REST communication? Let's go deep and compare German,
-  Belgian & French DPD WSDLs. Activate express shipping in SAP and print FedEx
-  & UPS shipping labels. Now print thousands of labels every day for sites
-  located around the world. Automate Purolator and DHL customer return labels.
-  This is amazing technology. This is what I write about.
+  freight forwarding.  I write about web services, XML templates, APIs & HTTP
+  REST communication.  Learn to activate express shipping in SAP and print
+  FedEx & UPS shipping labels. Now print thousands of labels every day for
+  sites located around the world.  Let's deep dive - compare German, Belgian &
+  French DPD WSDLs. Maybe add some extras - generate Purolator and DHL customer
+  return labels.  Enjoy!
 
 author:
   name:              Josh Riff

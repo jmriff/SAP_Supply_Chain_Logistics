@@ -15,12 +15,13 @@ platforms are and the bottom of each page. I hope to hear from you.  Thanks!
 
 {% include followCompany.html %}
 
-## Express Shipping on SAP
+## I want it right now!  Express Shipping on SAP
 
 Save time and money by running a powerful, automated, fully integrated,
-real-time, easy-to-use shipping module within your existing SAP system.  The
-Express Shipping Solution provides cost effective multi-carrier, multi-service
-capabilities in a robust solution that is scalable to grow with your company.
+real-time, easy-to-use shipping module within your existing SAP system.  Add
+functionality to your SAP ERP system that provides cost effective
+multi-carrier, multi-service capabilities in a robust solution that is scalable
+to grow with your company.
 
 * Create carrier-specific shipping labels and shipping documents (commercial invoice, manifest, BOL, etc.)
 * Integrate scales, CubiScan, bar code scanners and printers
