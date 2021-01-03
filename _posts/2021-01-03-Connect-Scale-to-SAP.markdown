@@ -37,7 +37,7 @@ serial data stream coming from a scale.
 
 > **Comment.** Please comment and ask questions regarding this post.  I would like
 to hear about your experiences connecting digital shipping scales to SAP. Thanks! [**Click here to comment on this
-post**](https://www.linkedin.com/feed/update/urn:li:activity:6746632097114406912).
+post**](https://www.linkedin.com/feed/update/urn:li:activity:6751507489226797056/).
 
 ### Step 2: Software configuration
 Obtain the *scale_for_r3.exe* program from SAP and run it on the packing station PC. This program creates an entry in the Windows registration for NCI.
