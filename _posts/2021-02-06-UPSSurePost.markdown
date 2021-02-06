@@ -39,7 +39,7 @@ ID is used to request a SurePost shipping label.
 > **Comment.** Please comment and ask questions regarding this post.  I would
 like to hear about your experiences using the UPS *SurePost* service.
 Thanks! [**Click here to comment on this
-post**](https://www.linkedin.com/feed/update/urn:li:activity:6751507489226797056/).
+post**](https://www.linkedin.com/feed/update/urn:li:activity:6763849747930365952).
 
 ### Procedure for Activating SurePost
 
